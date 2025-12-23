@@ -53,5 +53,21 @@ PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 
+
+📌 Important Note :
+
+📊 Market data is static ;
+Stock prices were fetched once from an API and stored in the database.
+No real-time updates are available due to paid stock market APIs.
+
+⚠️ Disclaimer :
+
+This project is for educational purposes only.
+It is not affiliated with Zerodha and does not support real trading.
+
+⭐ License :
+
+MIT License
+
 ZERODHA clone walkthrough video:
 https://github.com/alphanumeric0905/ZERODHA-clone/releases/tag/v1
