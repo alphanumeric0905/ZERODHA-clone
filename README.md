@@ -26,16 +26,16 @@ Database: MongoDB
 Auth: JWT
 
 ⚙️ Installation & Setup
-1️⃣ Clone the Repository
+1️⃣ Clone the Repository : 
 git clone https://github.com/alphanumeric0905/ZERODHA-clone.git
 cd ZERODHA-clone
 
-2️⃣ Install Backend Dependencies
+2️⃣ Install Backend Dependencies :
 cd backend
 npm install
 nodemon index.js
 
-3️⃣ Install Frontend Dependencies
+3️⃣ Install Frontend Dependencies :
 cd frontend
 npm install
 npm run start
